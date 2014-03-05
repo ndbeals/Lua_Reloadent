@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "lua_reloadent"
+	"author_name" "TGiFallen (Original by Tomylobo"
+	"info" "A developer utility for reloading entire entity classes in game without restarting the map. Reloads tools, sweps and sents. Autocomplete does not work for some things and I have no clue why, if somoene wants to message me about it to help me you are more than welcome to. "
+}
